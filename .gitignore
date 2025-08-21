@@ -1,0 +1,28 @@
+# Temporary reference folders
+tmp/
+
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Minecraft development
+run/
+logs/
+crash-reports/
+
+# Java
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
