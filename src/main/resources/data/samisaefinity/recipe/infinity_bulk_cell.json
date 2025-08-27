@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "B": {
+      "item": "megacells:bulk_cell_component"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "GLG",
+    "WBW",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "samisaefinity:infinity_cobblestone_cell"
+  }
+}

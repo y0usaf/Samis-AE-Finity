@@ -1,0 +1,1 @@
+com.samiyuru.samiaeinfinity.xmod.kjs.KJSPlugin

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.samiyuru.samiaeinfinity.mixin",
+  "mixins": [
+    "CellWorkbenchBlockEntityMixin",
+    "CellWorkbenchMenuMixin"
+  ],
+  "client": [
+    "client.CellWorkbenchScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

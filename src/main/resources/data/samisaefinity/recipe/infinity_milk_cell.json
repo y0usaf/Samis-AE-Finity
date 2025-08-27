@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "ae2:quartz_glass"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "B": {
+      "item": "megacells:bulk_cell_component"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "GMG",
+    "MBM",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "samisaefinity:infinity_milk_cell"
+  }
+}

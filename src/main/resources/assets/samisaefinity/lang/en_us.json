@@ -1,0 +1,9 @@
+{
+  "itemGroup.samisaefinity.main": "Sami's AE Infinity",
+  "item.samisaefinity.infinity_cobblestone_cell": "SAMI ME Infinity Cobblestone Cell",
+  "item.samisaefinity.infinity_water_cell": "SAMI ME Infinity Water Cell",
+  "item.samisaefinity.infinity_milk_cell": "SAMI ME Infinity Milk Cell",
+  "item.samisaefinity.infinity_cell_name": "SAMI ME Infinity %s Cell",
+  "infinity.tooltip": "Infinity",
+  "gui.tooltips.samisaefinity.CompressionCutoff": "Bulk Compression Cutoff"
+}
