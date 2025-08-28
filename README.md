@@ -4,7 +4,11 @@ A Minecraft mod that adds infinity storage cells for Applied Energistics 2. This
 
 # What does this mod do differently?
 
-Compression. Infinity cells don't have compression, but this mod does. That's it so far.
+Compression. Infinity cells don't have compression, but this mod does. That's it so far. Give me your ideas, I'll try to implement them!
+
+# What is planned on being added?
+- Infinity Mekanism chemical cells
+- Infinity AppliedFlux FE cells
 
 ## License
 
